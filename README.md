@@ -1,8 +1,7 @@
-![logo](https://github.com/pragatidash68/pragatidash68/blob/main/git%20banner.png)
+
 <h1 align="center">Hi 👋, I'm Pragati Dash</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" height="600" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept" />
-"
+<img align="right" alt="coding" width="400" src="coding.gif" />
 
 - 🌱 I’m currently learning **AIML**
 
