@@ -1,3 +1,4 @@
+![logo](https://github.com/pragatidash68/Pragatidash/blob/main/git%20banner.png)
 <h1 align="center">Hi 👋, I'm Pragati Dash</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="<img width="800" height="600" alt="image" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept" />
